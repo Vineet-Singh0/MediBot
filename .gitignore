@@ -1,0 +1,5 @@
+models/model.pkl
+notebooks/final_symptom_checker_model*.pkl
+*.pyc
+__pycache__/
+.DS_Store
