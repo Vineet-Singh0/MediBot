@@ -84,3 +84,10 @@ MediPredict is deployed on Azure, making it accessible from anywhere with secure
 ---
 
 *For more details, explore the notebooks, try the app, or reach out for collaboration!*
+
+# .gitignore
+models/model.pkl
+notebooks/final_symptom_checker_model*.pkl
+*.pyc
+__pycache__/
+.DS_Store
